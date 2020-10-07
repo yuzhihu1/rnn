@@ -1,0 +1,2 @@
+# rnn
+playground for RNN
